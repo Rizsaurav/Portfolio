@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # Portfolio
-My Portfolio. https://rizsaurav.github.io/Portfolio/
+My Portfolio. 
 =======
 
 
